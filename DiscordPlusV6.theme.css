@@ -19,7 +19,7 @@
 
 :root {
   --background-image: url('https://i.imgur.com/cMT1Tg6.jpeg');
-  --background-image-blur: 4px;
+  --background-image-blur: 0px;
   --background-image-size: cover;
   --background-image-position: center;
   --popout-modal-image: transparent;
@@ -29,11 +29,11 @@
   --home-button-image: url('https://i.imgur.com/Lmgg06J.gif');
   --home-button-size: 200%;
   --home-button-position: center;
-  --serverlist-brightness: 0.7;
-  --left-brightness: 0.7;
-  --middle-brightness: 0.7;
-  --right-brightness: 0;
-  --popout-modal-brightness: 0.7;
+  --serverlist-brightness: 1;
+  --left-brightness: 1;
+  --middle-brightness: 1;
+  --right-brightness: 1;
+  --popout-modal-brightness: 1;
   --gradient-primary: 112,18,1;
   --gradient-secondary: 112,18,1;
   --link-colour: #C28AFF;
